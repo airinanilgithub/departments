@@ -53,7 +53,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img height="600px" width="5200px" src="http://dyuti.in/assets/images/rcss/full_college.jpg" class="d-block w-100" alt="...">
+            <img height="600px" width="5200px" src="https://www.joonsquare.com/usermanage/image/business/rajagiri-college-of-social-sciences-ernakulam-14557/rajagiri-college-of-social-sciences-ernakulam-rajagiri-college-of-social-sciences-1.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h1><p>Welcome to Department of Social Sciences</p></h1>
             </div>
