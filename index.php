@@ -49,19 +49,19 @@
             <img height="600px" width="5200px" src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-8aab18mkr3gr4a7nef9nhcoc00-20160426060743.Medi.jpeg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               
-              <h1><p>Welcome to Department of Social Sciences</p></h1>
+              <h1><p>Welcome to Department of Computer Apllication</p></h1>
             </div>
           </div>
           <div class="carousel-item">
             <img height="600px" width="5200px" src="https://www.joonsquare.com/usermanage/image/business/rajagiri-college-of-social-sciences-ernakulam-14557/rajagiri-college-of-social-sciences-ernakulam-rajagiri-college-of-social-sciences-1.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <h1><p>Welcome to Department of Social Sciences</p></h1>
+              <h1><p>Welcome to Department of Computer Apllication</p></h1>
             </div>
           </div>
           <div class="carousel-item">
             <img height="600px" width="4000" src="https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/9220/2018/10/9/Lib.%20of%20Rajagiri%20College%20of%20Social%20Sciences%20Ernakulam_Library.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <h1><p>Welcome to Department of Social Sciences</p></h1>
+              <h1><p>Welcome to Department of Computer Apllication</p></h1>
             </div>
           </div>
         </div>
