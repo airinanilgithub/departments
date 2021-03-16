@@ -53,7 +53,7 @@
 
               <div class="card-group">
                 <div class="card">
-                  <a href="mca.html"> <img src="https://mindlercareerlibrarynew.imgix.net/shutterstock_284316539_CL.png" class="card-img-top" alt="...">
+                  <a href="mca.php"> <img src="https://mindlercareerlibrarynew.imgix.net/shutterstock_284316539_CL.png" class="card-img-top" alt="...">
                   </a> <div class="card-body">
                     <h5 class="card-title" >   MCA</h5>
                     <p class="card-text"></p>
@@ -61,7 +61,7 @@
                   </div>
                 </div>
                 <div class="card">
-                  <a href="msc.html"><img height="370" src="https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-320-80.jpg" class="card-img-top" alt="...">
+                  <a href="msc.php"><img height="370" src="https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-320-80.jpg" class="card-img-top" alt="...">
                 </a><div class="card-body">
                     <h5 class="card-title">M Sc Computer Science (Data Analytics)</h5>
                     <p class="card-text"></p>
